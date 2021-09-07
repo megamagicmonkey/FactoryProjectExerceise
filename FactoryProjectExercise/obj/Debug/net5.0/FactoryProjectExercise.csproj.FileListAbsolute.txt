@@ -1,0 +1,16 @@
+C:\Users\megam\repos\FactoryProjectExercise\FactoryProjectExercise\obj\Debug\net5.0\FactoryProjectExercise.csproj.AssemblyReference.cache
+C:\Users\megam\repos\FactoryProjectExercise\FactoryProjectExercise\obj\Debug\net5.0\FactoryProjectExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\megam\repos\FactoryProjectExercise\FactoryProjectExercise\obj\Debug\net5.0\FactoryProjectExercise.AssemblyInfoInputs.cache
+C:\Users\megam\repos\FactoryProjectExercise\FactoryProjectExercise\obj\Debug\net5.0\FactoryProjectExercise.AssemblyInfo.cs
+C:\Users\megam\repos\FactoryProjectExercise\FactoryProjectExercise\obj\Debug\net5.0\FactoryProjectExercise.csproj.CoreCompileInputs.cache
+C:\Users\megam\repos\FactoryProjectExercise\FactoryProjectExercise\bin\Debug\net5.0\FactoryProjectExercise.exe
+C:\Users\megam\repos\FactoryProjectExercise\FactoryProjectExercise\bin\Debug\net5.0\FactoryProjectExercise.deps.json
+C:\Users\megam\repos\FactoryProjectExercise\FactoryProjectExercise\bin\Debug\net5.0\FactoryProjectExercise.runtimeconfig.json
+C:\Users\megam\repos\FactoryProjectExercise\FactoryProjectExercise\bin\Debug\net5.0\FactoryProjectExercise.runtimeconfig.dev.json
+C:\Users\megam\repos\FactoryProjectExercise\FactoryProjectExercise\bin\Debug\net5.0\FactoryProjectExercise.dll
+C:\Users\megam\repos\FactoryProjectExercise\FactoryProjectExercise\bin\Debug\net5.0\ref\FactoryProjectExercise.dll
+C:\Users\megam\repos\FactoryProjectExercise\FactoryProjectExercise\bin\Debug\net5.0\FactoryProjectExercise.pdb
+C:\Users\megam\repos\FactoryProjectExercise\FactoryProjectExercise\obj\Debug\net5.0\FactoryProjectExercise.dll
+C:\Users\megam\repos\FactoryProjectExercise\FactoryProjectExercise\obj\Debug\net5.0\ref\FactoryProjectExercise.dll
+C:\Users\megam\repos\FactoryProjectExercise\FactoryProjectExercise\obj\Debug\net5.0\FactoryProjectExercise.pdb
+C:\Users\megam\repos\FactoryProjectExercise\FactoryProjectExercise\obj\Debug\net5.0\FactoryProjectExercise.genruntimeconfig.cache
